@@ -1,5 +1,0 @@
-[server]
-port = $PORT
-enableCORS = true
-enableXsrfProtection = true
-headless = true
