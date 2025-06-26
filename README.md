@@ -1,6 +1,6 @@
 # 🧠 Parkinson's Disease Prediction App
 
-This repository contains a deep learning-based web application for predicting the likelihood of Parkinson’s Disease symptoms from PCA-reduced biomedical features. Built using **Python**, **PyTorch**, and **Streamlit**, the app offers an intuitive interface for real-time health assessments.
+This repository contains a deep learning-based web application for predicting the likelihood of Parkinson’s Disease symptoms from PCA-reduced biomedical features. Built using **Python**, **TensorFlow**, and **Streamlit**, the app offers an intuitive interface for real-time health assessments.
 
 🔗 **Live Demo:** [https://parkinson-disease-prediction-887j.onrender.com](https://parkinson-disease-prediction-887j.onrender.com)
 
@@ -22,7 +22,7 @@ This repository contains a deep learning-based web application for predicting th
 |----------------|----------------------------------|
 | Python 3.8+     | Core language                    |
 | Streamlit       | Web UI and deployment            |
-| PyTorch         | Model training and inference     |
+| TensorFlow      | Model training and inference     |
 | Joblib          | Scaler and PCA persistence       |
 | NumPy           | Data handling                    |
 
@@ -34,7 +34,7 @@ This repository contains a deep learning-based web application for predicting th
 
 ```bash
 git clone https://github.com/Narayan2416/parkinson_disease_prediction.git
-cd parkinsons-disease-prediction
+cd parkinsons_disease_prediction
 pip install -r requirements.txt
 
 ## Run the app by
