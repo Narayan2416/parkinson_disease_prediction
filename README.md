@@ -1,6 +1,6 @@
 # 🧠 Parkinson's Disease Prediction App
 
-This repository contains a deep learning-based web application for predicting the likelihood of Parkinson’s Disease symptoms from PCA-reduced biomedical features. Built using **Python**, **TensorFlow**, and **Streamlit**, the app offers an intuitive interface for real-time health assessments.
+This repository contains a deep learning–based web application for detecting Parkinson’s Disease from EEG signal data. The EEG features are reduced using Principal Component Analysis (PCA) and classified with an Artificial Neural Network (ANN) implemented in TensorFlow. The application, built with Streamlit, offers an intuitive interface for real-time and accessible health assessment.
 
 🔗 **Live Demo:** [https://parkinson-disease-prediction-887j.onrender.com](https://parkinson-disease-prediction-887j.onrender.com)
 
