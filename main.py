@@ -6,7 +6,6 @@ from tensorflow.keras.layers import Dense, BatchNormalization, LeakyReLU, Input,
 from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.models import load_model
 
-# ======================= Style Section =======================
 st.set_page_config(page_title="Parkinson's Classifier", layout="wide")
 
 st.markdown("""
